@@ -24,8 +24,11 @@ Contact Information: Offers multiple ways to get in touch with me, including ema
 
 ## Technologies Used
 HTML5: For structuring the content on the web page.
+
 CSS3: For styling the website and ensuring responsive design.
+
 JavaScript: For interactivity and dynamic behavior.
+
 Google Fonts: For custom fonts to enhance the website's appearance.
 
 ## Usage
@@ -33,11 +36,17 @@ Simply open the index.html file in any modern web browser to explore the portfol
 
 ## Project Structure
 index.html: The main HTML file for the portfolio.
+
 customersegmentation.html: Detailed page for the Customer Segmentation project.
+
 style.css: Primary stylesheet for the portfolio.
+
 mediaqueries.css: Additional CSS for handling responsive design.
+
 script.js: JavaScript file for interactive elements.
+
 assets/: Directory containing images, icons, and other media files.
+
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
