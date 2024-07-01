@@ -42,5 +42,5 @@ assets/: Directory containing images, icons, and other media files.
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-##License
+## License
 This project is licensed under the MIT License.
